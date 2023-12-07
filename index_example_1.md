@@ -1,87 +1,44 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Victoria Gomez Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Victoria Gomez
+Business Analytics Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gom22024@byui.edu">gom22024@byui.edu</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2022 - April 2024`
+__Brigham Young University - Idaho, Rexburg, ID__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BS in Business Analytics
+- Certificate in Data Science
 
-- Sizar
+`Septemeber 2019 - Jyly 2021`
+__Ensign College, Salt Lake City, UT__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Associate Degree in Global Supply Chain and Operations
 
 
+## Work Experience
 
-## Awards
+`September 2023 - Present`
+__Statistics Teaching Assistant__, Rexburg, ID
 
-`2012`
-President, *Royal Society*, London, UK
+- Mentored an average of 70 students with statistical concepts such as probabilities,T-test, ANOVA, and Chi-squared.
+- Trained students in using Excel for statistical analyses.
+- Assessed students’ progress with course material using fair and equitable grading policies.
 
-Associate, *French Academy of Science*, Paris, France
+`April 2023 - Present`
+__Supply Chain Management Tutor and Teaching Assistant__, Rexburg, ID
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Delivered structured and engaging lessons on Supply Chain Management concepts such as inventory management, logistics, project management, forecasting, and statistical process control, and JIT and lean production.
+- Provided one-on-one assistance to students in Excel to conduct break even analyses, root-cause-analyses, simple and multi-factor productivity, creating and interpretating control charts, and network diagrams.
+- Developed practice assessments resulting in improvement in students’ comprehension and grades.
 
 
 <!-- ### Footer
