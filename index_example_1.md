@@ -4,7 +4,7 @@ title: Victoria Gomez Resume
 ---
 # Victoria Gomez
 Business Analytics Student
-
+Minor: Economics
 <div id="webaddress">
 <a href="gom22024@byui.edu">gom22024@byui.edu</a>
 </div>
